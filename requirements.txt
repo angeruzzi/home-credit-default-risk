@@ -6,3 +6,4 @@ kaggle>=2.2.2
 matplotlib
 seaborn
 scikit-learn
+optbinning==1.0.0
